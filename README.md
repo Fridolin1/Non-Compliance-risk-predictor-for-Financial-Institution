@@ -44,4 +44,25 @@ Include metrics such as:
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt'
+```
+Run Streamlit:
+```
+streamlit run app.py
+```
+Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
+
+Future Improvements
+Integration with live compliance databases
+Explainable AI features
+Automated compliance reporting
+Real-time monitoring
+Author
+
+Fridolin
+Data Science and Artificial Intelligence Student
+
+
+---
